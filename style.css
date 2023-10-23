@@ -1,0 +1,46 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	background-color: rgb(151, 215, 148);
+}
+.barraSuperior{
+	height: 100px;
+	margin-top: 100px;
+}
+
+.senhaAtual{
+	text-align: center;
+	background-color: #38b403;
+	color: white;
+	margin-top: 50px;
+}
+
+.senhaTexto{
+	font-size: 55pt;
+}
+
+#senhaAtualNumero{
+	font-size: 100pt;
+}
+
+.inforTexto{
+	font-size: 15pt;
+	text-align: center;
+	background-color: #b1abab;
+	height: 120px;
+	margin-top: 10px;
+}
+
+.tituloTexto{
+	font-size: 35pt;
+	color: #000000;
+}
+
+.subtitulo{
+	font-size: 20px;
+}
+
+audio{
+	display: none;
+}
