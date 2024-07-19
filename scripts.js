@@ -11,16 +11,17 @@ jQuery(document).ready(function($) {
 		var senhaNormal  = $("#senhaNormal");
 		var audioChamada = $("#audioChamada");
 
-        if(e.keyCode == 39){
+        if(e.keyCode == 38){
             senha = parseInt(senhaNormal.val()) + 1;
             senhaAtual.html(pad(senha, 4));
             senhaNormal.val(pad(senha, 4));
             audioChamada.trigger("play");
         }
-        if(e.keyCode == 65){
+        if(e.keyCode == 40){
             senha = parseInt(senhaNormal.val()) - 1;
             senhaAtual.html(pad(senha, 4));
             senhaNormal.val(pad(senha, 4));
+            audioChamada.trigger("play");
         }  
     });
 });
