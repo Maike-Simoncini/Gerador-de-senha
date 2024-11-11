@@ -16,26 +16,28 @@ body {
 	text-align: center;
 	background-color: #38b403;
 	color: white;
-	margin-top: 50px;
+	margin-top: 60px;
 }
 
 .senhaTexto {
-	font-size: 60px;
+	font-size: 40px;
 }
 
 #senhaAtualNumero {
-	font-size: 100pt;
+	font-size: 10em;
 }
 
 .inforTexto {
-	font-size: 60px;
+	font-size: 40px;
 	text-align: center;
-	padding: 80px;
+	margin-top: 80px;
 }
 
 .tituloTexto {
 	font-size: 60px;
 	color: #000000;
+	padding: 30px;
+	text-align: center;
 }
 
 audio {
