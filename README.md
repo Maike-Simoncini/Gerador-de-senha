@@ -1,4 +1,4 @@
-# Gerador-de-senha
+# Gerenciador-de-senha
 
 <a><img width="80%" src="img/tela.png"></a>
 
