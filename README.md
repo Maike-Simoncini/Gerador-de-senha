@@ -12,4 +12,4 @@ Seta para cima chama o próximo número, Seta para baixo chama o número anterio
 
 **Link do projeto:** 
 
-https://maike-simoncini.github.io/Gerador-de-senha/
+https://maike-simoncini.github.io/Gerenciador-de-senha/
